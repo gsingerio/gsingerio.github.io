@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 title: www.gsinger.io
 github:
-  is_project_page: false
+  is_project_page: False
 
