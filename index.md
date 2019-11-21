@@ -6,11 +6,11 @@
 
 ### Experience
 
-- Security Consultant
-- Solution Engineer
-- Security Enginner
-- Security Analyst
-- Auditor
+- Security Consultant, Remote
+- Sr. Solution Engineer, Remote
+- Sr. Security Engineer, Texas
+- Security Analyst, Texas
+- Auditor, Texas
 
 ### Academic
 
