@@ -2,17 +2,15 @@
 
 ### Professional Experience
 
+### Summary
 
+### Experience
 
-### Resume
-
-### Work Experience
-
-- Amazon AWS Professional Services Security Consultant
-- PhishMe Solution Engineer
-- Leidos Security Enginner
-- Regional Hospital Security Analyst
-- UHY LLP Auditor
+- Security Consultant
+- Solution Engineer
+- Security Enginner
+- Security Analyst
+- Auditor
 
 ### Academic
 
